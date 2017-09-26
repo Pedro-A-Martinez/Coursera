@@ -1,0 +1,40 @@
+body{
+	font-family: 'Muli', sans-serif;
+	background-color: #fff;
+}
+
+/* NAVBAR */
+
+.navbar{
+	    padding: 1rem 1rem!important;
+}
+nav li{
+	border-top: 1px solid white;
+}
+nav ul{
+	margin-top: 10px;
+}
+
+/* MAIN CONTENT */
+
+#main-content{
+	font-family: 'Muli', sans-serif;
+}
+
+#title{
+	margin-top: 35px;
+	font-weight: 700;
+}
+#section{
+	margin-top: 35px;
+	background-color: #EEEEEE;
+	padding: 35px;
+}
+#section h2{
+	margin-bottom: 20px;
+	font-weight: 600;
+}
+#section p{
+	margin-bottom: 20px;
+	font-weight: 400;
+}
